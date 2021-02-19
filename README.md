@@ -1,8 +1,8 @@
 # AI_ClassificationInAgriculture
 
-1. Introduction
-The project presents growth for creation, raw materials and
-the productivity of the agricultural sector in India through different periods. The statistics that can be used in are extracted from the Indian government platform "OGD" in CSV format. These data are used as a starting point for the analysis of India's development in agriculture as well as the surrounding sectors.
+1. Introduction:
+The project presents the growth of production, raw materials and
+the productivity of the agricultural sector in India through different periods. The statistics that can be used in it, are extracted from the Indian government platform "OGD" in CSV format. These data are used as a starting point for the analysis of India's development in agriculture as well as the surrounding sectors.
 
 2. Data structure
 Crops - cereals, legumes, oilseeds, sugars, fiber, horticultural crops, non-horticultural crops, animals, forestry, manure, fertilizers and pesticides, and others.
